@@ -2,4 +2,4 @@
 
 - /api/bookings
 - /api/menu-items
-- /api/menu-items/<int>
+- /api/menu-items/1
